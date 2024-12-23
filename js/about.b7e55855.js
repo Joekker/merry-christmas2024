@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmerry_christmas"]=self["webpackChunkmerry_christmas"]||[]).push([[594],{220:function(s,t,r){r.r(t),r.d(t,{default:function(){return c}});var n=function(){var s=this;s._self._c;return s._m(0)},u=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"about"},[t("h1",[s._v("This is an about page")])])}],e=r(656),a={},i=(0,e.A)(a,n,u,!1,null,null,null),c=i.exports}}]);
+//# sourceMappingURL=about.b7e55855.js.map
